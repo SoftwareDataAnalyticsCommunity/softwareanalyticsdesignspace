@@ -10,3 +10,7 @@ Go there and:
 * Add dimensions that aren't on the list
 * Contribute new questions to the task / product maturity table
 * Add papers that answer some of these questions and cite them in the table
+
+Here is the Google Doc with the paper outline:
+
+http://tinyurl.com/datascience4se2
